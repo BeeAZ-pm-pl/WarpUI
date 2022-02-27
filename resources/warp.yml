@@ -1,0 +1,21 @@
+0:
+ x: 274
+ y: 65
+ z: 258
+ world: world
+ name: "Warp 1"
+ msg: "Teleport To Warp 1 Success"
+1:
+ x: 274
+ y: 65
+ z: 290
+ world: world
+ name: "Warp 2"
+ msg: "Teleport To Warp 2 Success"
+2:
+ x: 275
+ y: 65
+ z: 300
+ world: world
+ name: "Warp 3"
+ msg: "Teleport To Warp 3 Success"

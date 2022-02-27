@@ -1,0 +1,14 @@
+name: WarpUI
+api: 4.0.0
+main: BeeAZZ\WarpUI\Main
+version: 0.0.1
+author: BeeAZZ
+
+commands:
+ warpui:
+  description: Warp UI Command
+  permission: warpui.command
+  
+permissions:
+ warpui.command:
+  default: true
