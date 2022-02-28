@@ -1,21 +1,19 @@
 0:
- x: 274
- y: 65
- z: 258
- world: world
- name: "Warp 1"
- msg: "Teleport To Warp 1 Success"
+ name: "Exit"
+#0 is set to the exit button of warpui
+#You can edit from 1 to a limit of 20 warp
+#Edit like the example below !
 1:
  x: 274
  y: 65
  z: 290
  world: world
- name: "Warp 2"
- msg: "Teleport To Warp 2 Success"
+ name: "Warp 1"
+ msg: "Teleport To Warp 1 Success"
 2:
  x: 275
  y: 65
  z: 300
  world: world
- name: "Warp 3"
- msg: "Teleport To Warp 3 Success"
+ name: "Warp 2"
+ msg: "Teleport To Warp 2 Success"
