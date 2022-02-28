@@ -14,4 +14,4 @@ Go to the folder **plugin_data\WarpUI\warp.yml** and follow the instructions ava
 
 <br>
 
-If the plugin fails please create an issue on my github
+If the plugin problem , please create an issue on my github
